@@ -1,0 +1,1 @@
+# MemeGames Token contract
